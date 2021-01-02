@@ -5,8 +5,11 @@ Here I've solved a Kaggle dataset using Linear Regression technique.
 I've gathered the dataset of Fuel Consumption, which have specific columns as explained below:
 
 MODELYEAR e.g. 2014
+
 MAKE e.g. Acura
+
 MODEL e.g. ILX
+
 VEHICLE CLASS e.g. SUV
 ENGINE SIZE e.g. 4.7
 CYLINDERS e.g 6
